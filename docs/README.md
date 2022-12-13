@@ -1,5 +1,5 @@
 ## Prim's Algorithm Java Implementation
-### Given an undirected weighted graph, this Java application utilizes the Bellman Ford algorithm to return a minimum spanning tree.
+### Given an undirected weighted graph, this Java application utilizes Prim's algorithm to return a minimum spanning tree.
 
 ![My Image](primsGraph.PNG)
 
